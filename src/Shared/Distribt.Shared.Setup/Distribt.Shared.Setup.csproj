@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Distribt.Shared.Setup</RootNamespace>
+  </PropertyGroup>
+  
+  <Import Project="../../../GlobalSettings.msbuild" />
+</Project>

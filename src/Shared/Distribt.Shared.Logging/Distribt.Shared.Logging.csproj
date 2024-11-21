@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <RootNamespace>Distribt.Shared.Logging</RootNamespace>
+    </PropertyGroup>
+    
+    <Import Project="../../../GlobalSettings.msbuild" />
+</Project>
